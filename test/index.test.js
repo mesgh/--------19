@@ -1,4 +1,4 @@
-//'use strict';
+'use strict';
 import faker from "faker";
 import puppeteer from "puppeteer";
 import "regenerator-runtime/runtime";
